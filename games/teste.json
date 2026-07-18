@@ -1,10 +1,12 @@
 {
     "id": "teste",
-    "title": "Teste",
-    "author": "Microsoft",
+    "title": "Arquivo de Teste",
+    "author": "GM Melo",
     "version": "1.0",
-    "category": "FPS",
+    "category": "Teste",
+    "description": "Primeiro teste da Lua Market 360.",
     "size": 0,
-    "cover": "covers/halo.png",
-    "download": "https://archive.org/download/teste-360-loja/Meu%20Jogo.tar"
+    "cover": "",
+    "download": "https://archive.org/download/teste-360-loja/Meu%20Jogo.tar",
+    "checksum": ""
 }
