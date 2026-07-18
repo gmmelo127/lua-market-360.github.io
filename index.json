@@ -1,8 +1,13 @@
 {
-    "version": 1,
+    "store": {
+        "name": "Lua Market 360",
+        "version": "1.0",
+        "api": 1
+    },
     "games": [
-        "games/teste.json",
-        "games/minecraft.json",
-        "games/quake.json"
+        {
+            "id": "teste",
+            "file": "games/teste.json"
+        }
     ]
 }
