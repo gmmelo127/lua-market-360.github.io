@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "games": [
+        "games/teste.json",
+        "games/minecraft.json",
+        "games/quake.json"
+    ]
+}
