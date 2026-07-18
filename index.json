@@ -1,12 +1,12 @@
 {
     "store": {
         "name": "Lua Market 360",
-        "version": "1.0",
-        "api": 1
+        "version": "1.0"
     },
     "games": [
         {
             "id": "teste",
+            "title": "Arquivo de Teste",
             "file": "games/teste.json"
         }
     ]
