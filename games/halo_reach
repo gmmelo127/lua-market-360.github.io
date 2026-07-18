@@ -1,0 +1,14 @@
+[game]
+id=halo_reach
+title=Halo Reach
+type=Game
+platform=Xbox 360
+version=1.0
+size=6.5 GB
+author=Microsoft
+
+description=Halo Reach para Xbox 360.
+
+cover=covers/halo_reach.png
+
+download=https://archive.org/download/arquivo/halo_reach.tar
