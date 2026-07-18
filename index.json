@@ -1,7 +1,8 @@
 {
     "store": {
         "name": "Lua Market 360",
-        "version": "1.0"
+        "version": "1.0",
+        "api": 1
     },
     "games": [
         {
