@@ -1,0 +1,10 @@
+{
+    "id": "teste",
+    "title": "Teste",
+    "author": "Microsoft",
+    "version": "1.0",
+    "category": "FPS",
+    "size": 32KB,
+    "cover": "covers/halo.png",
+    "download": "https://archive.org/download/teste-360-loja/Meu%20Jogo.tar"
+}
