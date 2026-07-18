@@ -3,10 +3,7 @@
     "title": "Arquivo de Teste",
     "author": "GM Melo",
     "version": "1.0",
-    "category": "Teste",
-    "description": "Primeiro teste da Lua Market 360.",
-    "size": 0,
-    "cover": "",
-    "download": "https://archive.org/download/teste-360-loja/Meu%20Jogo.tar",
-    "checksum": ""
+    "description": "Primeiro teste da loja.",
+    "size": "1 MB",
+    "download": "https://archive.org/download/teste-360-loja/Meu%20Jogo.tar"
 }
